@@ -1,3 +1,4 @@
-# POO-Python
-- Exercises about POO in Python.
-- Objective: to create 5 exercises perfecting: classes, modules and functions.
+# Exercícios de POO em Python
+
+## Objetivo:
+<p> Criar 5 exercícios aperfeiçoando: classes, módulos e funções.
